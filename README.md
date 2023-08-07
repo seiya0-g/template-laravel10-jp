@@ -1,0 +1,1 @@
+# template-laravel10-jp
